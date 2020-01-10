@@ -5,42 +5,33 @@ body {
 .microsite {
   height: 100%;
 
-  margin-left: 43rem;
+  margin-left: 47rem;
 
   background-image: url("cover.jpg");
   background-size: cover;
-  /* cover */
-  /* background-position: 50% 90%; */
-  /* cover1 */
   background-position: right 20%;
 }
 
 .header {
-  margin-top: 1rem;
-
   display: flex;
-  font-size: 2rem;
+  font-size: 2.2rem;
 
   color: hsl(16.22, 65%, 20%);
-  /* font-family: "Kaushan Script", cursive; */
   font-family: "Montserrat", sans-serif;
   text-shadow: 5px 5px 15px black;
 }
 
 .main {
-  margin-left: 1rem;
-  margin-right: 10rem;
+  margin-right: 12rem;
 
-  /* font-family: Arial, Helvetica, sans-serif; */
   font-family: "Montserrat", sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-weight: 700;
 }
 
 .footer {
-  /* background-color: lawngreen; */
-  margin-top: 0.5rem;
-  margin-right: 4rem;
+  margin-top: 0.2rem;
+  margin-right: 6rem;
 
   display: flex;
   justify-content: flex-end;
@@ -59,7 +50,6 @@ body {
 .link-wrapper {
   margin-right: 5rem;
   margin-top: 0.5rem;
-  /* background-color: indigo; */
   display: flex;
   justify-content: center;
 }
